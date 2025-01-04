@@ -1,4 +1,4 @@
-# eyetrackingproject
+# Eye Tracking Group Project
 
 This is a repository containing an eye-tracking group project work done in the autumn semester of  2024. The project involved the following activities 
 
